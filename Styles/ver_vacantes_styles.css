@@ -1,0 +1,116 @@
+/* Reset y tipografía */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+.container {
+  max-width: 1000px;
+  margin: auto;
+  padding: 20px;
+}
+
+/* Header */
+header {
+  background-color: #1a1a2e;
+  color: white;
+  padding: 20px 0;
+}
+
+.header-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo-img {
+  width: 60px;
+  margin-right: 15px;
+}
+
+.logo-text h1 {
+  font-size: 24px;
+}
+
+.actions a {
+  text-decoration: none;
+  color: white;
+  border: 2px solid white;
+  padding: 10px 15px;
+  border-radius: 5px;
+  margin-left: 10px;
+  transition: all 0.3s ease-in-out;
+}
+
+.actions a:hover {
+  background-color: white;
+  color: #1a1a2e;
+}
+
+/* Título */
+main h2 {
+  margin: 30px 0 20px;
+  color: #1a1a2e;
+}
+
+/* Tabla de vacantes */
+.vacantes-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 30px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  background-color: white;
+}
+
+.vacantes-table thead {
+  background-color: #1a1a2e;
+  color: white;
+}
+
+.vacantes-table th, .vacantes-table td {
+  padding: 12px 15px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.vacantes-table tr:hover {
+  background-color: #f1f1f1;
+}
+
+/* Botón pequeño para acciones */
+.btn-small {
+  display: inline-block;
+  padding: 6px 12px;
+  background-color: #1a1a2e;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  font-size: 14px;
+  transition: background 0.3s;
+}
+
+.btn-small:hover {
+  background-color: #343454;
+}
+
+/* Footer */
+footer {
+  margin-top: 50px;
+  background-color: #1a1a2e;
+  color: white;
+  text-align: center;
+  padding: 15px 0;
+  font-size: 14px;
+}

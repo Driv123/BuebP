@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vacantes>
+  <vacante id="2">
+    <titulo>ingeniero en sistemas computacionales</titulo>
+    <empresa>Red Guard</empresa>
+    <ciudad>Guanajuato</ciudad>
+    <sueldo>15000</sueldo>
+    <duracion>tiempo completo</duracion>
+    <descripcion>sexo anal</descripcion>
+  </vacante>
+  <vacante id="3">
+    <titulo>ANALISTA DE ANALISIS</titulo>
+    <empresa>Red Guard</empresa>
+    <ciudad>Ciudad de Mexico</ciudad>
+    <sueldo>30,000 mx</sueldo>
+    <duracion>1 dia</duracion>
+    <descripcion>xd</descripcion>
+  </vacante>
+  <vacante id="4">
+    <titulo>ingeniero en sitemassssss</titulo>
+    <empresa>red guard</empresa>
+    <ciudad>cdmx</ciudad>
+    <sueldo>200001092</sueldo>
+    <duracion>9 años</duracion>
+    <descripcion>encargado de sotear</descripcion>
+  </vacante>
+  <vacante id="5">
+    <titulo>CIBERSEGURO</titulo>
+    <empresa>Red Guard Tech</empresa>
+    <ciudad>Estado de Mexico</ciudad>
+    <sueldo>15,000</sueldo>
+    <duracion>30 horas</duracion>
+    <descripcion>Si eres gay entras</descripcion>
+  </vacante>
+  <vacante id="6">
+    <titulo>analista</titulo>
+    <empresa>red guard</empresa>
+    <ciudad>Guanajuato</ciudad>
+    <sueldo>20</sueldo>
+    <duracion>6 años</duracion>
+    <descripcion>ser analista</descripcion>
+  </vacante>
+</vacantes>

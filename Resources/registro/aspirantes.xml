@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aspirantes>
+  <aspirante id="65fdc22a8bca1">
+    <nombre>Juan</nombre>
+    <apellido>Pérez</apellido>
+    <correo>juan.perez@example.com</correo>
+    <telefono>5551234567</telefono>
+    <ciudad>Ciudad de México</ciudad>
+    <educacion>Licenciatura en Informática</educacion>
+    <password>$2y$10$9i4qHJZcJ1Ym.qmNshRfCeO2a8cs4eSk4A92YO46m94oE7hZsIY2y</password>
+  </aspirante>
+  <aspirante id="65fdc22a8bcf2">
+    <nombre>Ana</nombre>
+    <apellido>Gómez</apellido>
+    <correo>ana.gomez@example.com</correo>
+    <telefono>5559876543</telefono>
+    <ciudad>Guadalajara</ciudad>
+    <educacion>Ingeniería en Sistemas</educacion>
+    <password>$2y$10$VZ5wH4fYayyoYFzCE2rQKehwdgG1Et4qI3VXU27bKZmHdXZqtDAAe</password>
+  </aspirante>
+  <aspirante id="685c215a03eb4">
+    <nombre>Diego</nombre>
+    <apellido>Rivera</apellido>
+    <correo>kdnkdnwkdn@gmail.com</correo>
+    <telefono>4151887463</telefono>
+    <ciudad>cdmx</ciudad>
+    <educacion>ingenieria en sistemas</educacion>
+    <password>$2y$10$aAt4YwoqmbKnhqdLDNsZaObd3LfPMOWB9TOLUCNN3J52lZ4NQaGJO</password>
+    <postulaciones>
+      <postulacion vacante_id="2" estado="aceptado"/>
+      <postulacion vacante_id="3" estado="rechazado"/>
+      <postulacion vacante_id="5" estado="aceptado"/>
+    </postulaciones>
+  </aspirante>
+  <aspirante id="685c4b3e90ea9">
+    <nombre>Ricardo</nombre>
+    <apellido>Rodriguez</apellido>
+    <correo>xd@gmail.com</correo>
+    <telefono>55-6768-45634</telefono>
+    <ciudad>Estado</ciudad>
+    <educacion>pepe@gmail.com</educacion>
+    <password>$2y$10$7wheJToCMs7yBXLEfcrjfulTsW7JH/iwesD1ho.m6xANYUh7sPjy6</password>
+  </aspirante>
+  <aspirante id="685c4b6004582">
+    <nombre>Ricardo</nombre>
+    <apellido>Rodriguez</apellido>
+    <correo>xd@gmail.com</correo>
+    <telefono>55-6768-45634</telefono>
+    <ciudad>Estado</ciudad>
+    <educacion>soy muy seguro</educacion>
+    <password>$2y$10$6cYJ5sw2eEb/Z1hkvgWdH.ZlWGU041w/PeCIE9N8r36dcQoeDZ7P.</password>
+  </aspirante>
+</aspirantes>
